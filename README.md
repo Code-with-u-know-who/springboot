@@ -2,12 +2,15 @@
 _Comprehensive Trade Intelligence System for the U.S. Harmonized Tariff Schedule (HTS)_
 
 <div align="center">
-  <!-- Technology Badges -->
-  ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-  ![LangChain](https://img.shields.io/badge/LangChain-0.0.305-yellow?style=for-the-badge)
-  ![FAISS](https://img.shields.io/badge/FAISS-VectorStore-green?style=for-the-badge)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit)
-  ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829.svg?style=for-the-badge&logo=Folium&logoColor=white)
+
+![last-commit](https://img.shields.io/github/last-commit/Sivamani1611/geo-drone-overlay?style=flat&logo=git&logoColor=white&color=0080ff)
+![repo-top-language](https://img.shields.io/github/languages/top/Sivamani1611/geo-drone-overlay?style=flat&color=0080ff)
+![repo-language-count](https://img.shields.io/github/languages/count/Sivamani1611/geo-drone-overlay?style=flat&color=0080ff)
+
 </div>
 
 ---
@@ -22,8 +25,7 @@ _Comprehensive Trade Intelligence System for the U.S. Harmonized Tariff Schedule
 6. [🚀 Quick Start Guide](#quick-start-guide)  
 7. [🔧 Detailed Usage](#detailed-usage)  
 8. [🧠 Architecture Overview](#architecture-overview)  
-9. [🤝 Contributing & License](#contributing--license)  
-10. [👤 Author](#author)  
+ 
 
 ---
 
